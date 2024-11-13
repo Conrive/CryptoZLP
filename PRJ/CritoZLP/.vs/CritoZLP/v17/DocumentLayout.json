@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Conrive\\\u0423\u0447\u0435\u0431\u0430\\\u0423\u041F\\\u0423\u041F 02.01\\PRJ\\CritoZLP\\",
+  "WorkspaceRootPath": "F:\\git prjs\\proj\\CryptoZLP\\PRJ\\CritoZLP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E98EA8BB-BC87-4AE9-89FD-CC495719D359}|CritoZLP\\CritoZLP.csproj|c:\\users\\conrive\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u043F\\\u0443\u043F 02.01\\prj\\critozlp\\critozlp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E98EA8BB-BC87-4AE9-89FD-CC495719D359}|CritoZLP\\CritoZLP.csproj|f:\\git prjs\\proj\\cryptozlp\\prj\\critozlp\\critozlp\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EA8BB-BC87-4AE9-89FD-CC495719D359}|CritoZLP\\CritoZLP.csproj|solutionrelative:critozlp\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EA8BB-BC87-4AE9-89FD-CC495719D359}|CritoZLP\\CritoZLP.csproj|f:\\git prjs\\proj\\cryptozlp\\prj\\critozlp\\critozlp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E98EA8BB-BC87-4AE9-89FD-CC495719D359}|CritoZLP\\CritoZLP.csproj|solutionrelative:critozlp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,15 +22,28 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "F:\\git prjs\\proj\\CryptoZLP\\PRJ\\CritoZLP\\CritoZLP\\Encryption.cs",
+              "RelativeDocumentMoniker": "CritoZLP\\Encryption.cs",
+              "ToolTip": "F:\\git prjs\\proj\\CryptoZLP\\PRJ\\CritoZLP\\CritoZLP\\Encryption.cs",
+              "RelativeToolTip": "CritoZLP\\Encryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:03:49.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Conrive\\\u0423\u0447\u0435\u0431\u0430\\\u0423\u041F\\\u0423\u041F 02.01\\PRJ\\CritoZLP\\CritoZLP\\Form1.cs",
+              "DocumentMoniker": "F:\\git prjs\\proj\\CryptoZLP\\PRJ\\CritoZLP\\CritoZLP\\Form1.cs",
               "RelativeDocumentMoniker": "CritoZLP\\Form1.cs",
-              "ToolTip": "C:\\Users\\Conrive\\\u0423\u0447\u0435\u0431\u0430\\\u0423\u041F\\\u0423\u041F 02.01\\PRJ\\CritoZLP\\CritoZLP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "F:\\git prjs\\proj\\CryptoZLP\\PRJ\\CritoZLP\\CritoZLP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "CritoZLP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T11:51:19.132Z",
